@@ -1,0 +1,2 @@
+myname = "よしのみお"
+puts myname
